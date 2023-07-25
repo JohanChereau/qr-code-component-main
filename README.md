@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+  - [Design](#design)
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
@@ -13,6 +14,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
+
+### Design
+#### Design to integrate :
+![Screenshot desktop view](./design/desktop-design.jpg)
 
 ### Screenshots
 
@@ -27,11 +32,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- My solution on Front End Mentor: [Front end mentor solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://johanchereau.github.io/qr-code-component-main/)
+- My solution on Front End Mentor: [Click here](https://www.frontendmentor.io/solutions/responsive-qr-code-component-semantic-html-and-vanilla-css-bem-SmKAdZtBNw)
+- Live site demo: [Click here](https://johanchereau.github.io/qr-code-component-main/)
 
 ## My process
-For this challenge, I didn't use any frameworks, just vanilla HTML and CSS. I've tried to respect HTML semantics as much as possible, and to produce clean, readable code that respects best practices. In particular, I used BEM notation and custom CSS properties.
+For this challenge, I didn't use any frameworks, just **vanilla HTML and CSS**. I've tried to respect **HTML semantics** as much as possible, and to produce **clean**, **readable code** that respects **best practices**. In particular, I used **BEM notation** and **custom CSS properties**.
 
 ### Built with
 
